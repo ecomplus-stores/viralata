@@ -1,6 +1,6 @@
 {
   "pkg": "@ecomplus/widget-minicart",
-  "active": false,
-  "desktopOnly": true,
+  "active": true,
+  "desktopOnly": false,
   "options": {}
 }
