@@ -1,23 +1,23 @@
 {
-  "store_id": 1197,
-  "name": "viralata",
   "domain": "viralata.netlify.app",
-  "short_name": "viralata",
-  "description": "viralata",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-dark"
   },
+  "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "viralata",
+  "short_name": "viralata",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 1197,
+  "description": "viralata",
+  "large_icon": "/img/large-icon.png"
 }
