@@ -1,5 +1,5 @@
 {
-  "css": ".product__buy button, .product__buy button:hover {\n    color: #fff;\n    background-color: #5cb85c!important;\n    border-color: #5cb85c!important;\n    text-align: center;\n    border-radius: 7px;\n    width: 100%;\n}",
+  "css": ".product__buy button, .product__buy button:hover {\n    color: #fff;\n    background-color: #5cb85c!important;\n    border-color: #5cb85c!important;\n    text-align: center;\n    border-radius: 7px;\n    width: 100%;\n}\nmain #cart-button i:before {\n    width: 27px;\n    height: 27px;\n}",
   "html_head": "",
   "html_body": ""
 }
